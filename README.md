@@ -1,6 +1,4 @@
-
 ![Aditya Roy (1)](https://github.com/AdityaRoy101/AdityaRoy101/assets/86155138/1ad7c7aa-a41a-42c7-aeaf-213155cbf210)
-
 
 <h1 align="center">Hi 👋, I'm Aditya Roy</h1>
 <h3 align="center">"Software Developer who loves React"</h3>
@@ -10,6 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaroy101" alt="adityaroy101" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+![Untitled design (2)](https://github.com/AdityaRoy101/AdityaRoy101/assets/86155138/7e5f48e3-b935-414f-bf53-f90a4a969466)
 
 - 🔭 I’m currently working on **OverSea**
 
@@ -24,6 +24,7 @@
 - 📫 How to reach me **mr.adityaroy101@gmail.com**
 
 - 📄 Know about my experiences [Portfolio.link](Portfolio.link)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
