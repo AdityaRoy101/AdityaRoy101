@@ -1,4 +1,5 @@
-![Aditya Roy (1)](https://github.com/AdityaRoy101/AdityaRoy101/assets/86155138/1ad7c7aa-a41a-42c7-aeaf-213155cbf210)
+
+![Aditya Roy](https://github.com/AdityaRoy101/AdityaRoy101/assets/86155138/3a0e2c3e-3bc6-4c0d-8ed8-4f94cc26c409)
 
 <h1 align="center">Hi 👋, I'm Aditya Roy</h1>
 <h3 align="center">"Software Developer who loves React"</h3>
