@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akashpagi"/>
  </a>
   
- <a href="https://instagram.com/adityaroy101" target="_blank">
+ <a href="https://instagram.com/a" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="akashpagi" />
  </a> 
   
