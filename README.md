@@ -50,4 +50,7 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaroy101&layout=compact&theme=tokyonight" alt="adityaroy101 top language stats" />
 </p>
 
+[![AdityaRoy101's GitHub | Languages Over Time](https://stats.quine.sh/AdityaRoy101/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AdityaRoy101)
+
 <a href="https://github.com/adityaroy101"><img  height="270" width="1050" alt="adityaroy101 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=adityaroy101&bg_color=0d1117&color=dde9e5&line=52d4ff&point=ff006f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
+
